@@ -1,0 +1,3 @@
+Pauk	rua a	999999-9998
+Paulo	rua b	999999-9997
+Paula	rua c	999999-9996

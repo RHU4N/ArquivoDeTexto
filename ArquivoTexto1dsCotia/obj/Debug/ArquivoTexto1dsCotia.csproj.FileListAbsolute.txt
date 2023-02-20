@@ -1,0 +1,21 @@
+C:\Users\Aluno\Documents\SharpDevelop Projects\ArquivoTexto1dsCotia\ArquivoTexto1dsCotia\bin\Debug\ArquivoTexto1dsCotia.exe
+C:\Users\Aluno\Documents\SharpDevelop Projects\ArquivoTexto1dsCotia\ArquivoTexto1dsCotia\bin\Debug\ArquivoTexto1dsCotia.pdb
+C:\Users\Aluno\Documents\SharpDevelop Projects\ArquivoTexto1dsCotia\ArquivoTexto1dsCotia\obj\Debug\ArquivoTexto1dsCotia.csprojResolveAssemblyReference.cache
+C:\Users\Aluno\Documents\SharpDevelop Projects\ArquivoTexto1dsCotia\ArquivoTexto1dsCotia\obj\Debug\ArquivoTexto1dsCotia.MainForm.resources
+C:\Users\Aluno\Documents\SharpDevelop Projects\ArquivoTexto1dsCotia\ArquivoTexto1dsCotia\obj\Debug\ArquivoTexto1dsCotia.csproj.GenerateResource.Cache
+C:\Users\Aluno\Documents\SharpDevelop Projects\ArquivoTexto1dsCotia\ArquivoTexto1dsCotia\obj\Debug\ArquivoTexto1dsCotia.exe
+C:\Users\Aluno\Documents\SharpDevelop Projects\ArquivoTexto1dsCotia\ArquivoTexto1dsCotia\obj\Debug\ArquivoTexto1dsCotia.pdb
+C:\Users\rhuan\OneDrive\Documents\SharpDevelop Projects\ArquivoTexto1dsCotia\ArquivoTexto1dsCotia\bin\Debug\ArquivoTexto1dsCotia.exe
+C:\Users\rhuan\OneDrive\Documents\SharpDevelop Projects\ArquivoTexto1dsCotia\ArquivoTexto1dsCotia\bin\Debug\ArquivoTexto1dsCotia.pdb
+C:\Users\rhuan\OneDrive\Documents\SharpDevelop Projects\ArquivoTexto1dsCotia\ArquivoTexto1dsCotia\obj\Debug\ArquivoTexto1dsCotia.csprojResolveAssemblyReference.cache
+C:\Users\rhuan\OneDrive\Documents\SharpDevelop Projects\ArquivoTexto1dsCotia\ArquivoTexto1dsCotia\obj\Debug\ArquivoTexto1dsCotia.MainForm.resources
+C:\Users\rhuan\OneDrive\Documents\SharpDevelop Projects\ArquivoTexto1dsCotia\ArquivoTexto1dsCotia\obj\Debug\ArquivoTexto1dsCotia.csproj.GenerateResource.Cache
+C:\Users\rhuan\OneDrive\Documents\SharpDevelop Projects\ArquivoTexto1dsCotia\ArquivoTexto1dsCotia\obj\Debug\ArquivoTexto1dsCotia.exe
+C:\Users\rhuan\OneDrive\Documents\SharpDevelop Projects\ArquivoTexto1dsCotia\ArquivoTexto1dsCotia\obj\Debug\ArquivoTexto1dsCotia.pdb
+C:\Users\Aluno\Desktop\ArquivoTexto1dsCotia\ArquivoTexto1dsCotia\obj\Debug\ArquivoTexto1dsCotia.csprojResolveAssemblyReference.cache
+C:\Users\Aluno\Desktop\ArquivoTexto1dsCotia\ArquivoTexto1dsCotia\obj\Debug\ArquivoTexto1dsCotia.MainForm.resources
+C:\Users\Aluno\Desktop\ArquivoTexto1dsCotia\ArquivoTexto1dsCotia\obj\Debug\ArquivoTexto1dsCotia.csproj.GenerateResource.Cache
+C:\Users\Aluno\Desktop\ArquivoTexto1dsCotia\ArquivoTexto1dsCotia\obj\Debug\ArquivoTexto1dsCotia.exe
+C:\Users\Aluno\Desktop\ArquivoTexto1dsCotia\ArquivoTexto1dsCotia\bin\Debug\ArquivoTexto1dsCotia.exe
+C:\Users\Aluno\Desktop\ArquivoTexto1dsCotia\ArquivoTexto1dsCotia\bin\Debug\ArquivoTexto1dsCotia.pdb
+C:\Users\Aluno\Desktop\ArquivoTexto1dsCotia\ArquivoTexto1dsCotia\obj\Debug\ArquivoTexto1dsCotia.pdb
